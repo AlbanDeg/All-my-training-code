@@ -6,7 +6,9 @@ from fractions import Fraction
             #ALGORITHME DE DETERMINATION DE TOUT LES DETERMINANTS DE SLATTER
             #POUR UNE CONFIGURATION ELECTRONIQUE DONNEE
             #PERMET EGALEMENT LA CREATION DU TABLEAU M_L M_S
-
+            #AINSI QUE LES TERMES SPECTROSCOPIQUES 
+            
+ ## ATTENTION // ENCORE DES PROBLEMES POUR LES TERMES SPECTRO DES COUCHES SUPERIEURS A F ##
 
 print("Entrer la configuration electronique, exemple:'d2' ")
 config=str(input())
